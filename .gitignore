@@ -1,0 +1,6 @@
+# Ignore cache files (stored in this folder)
+**/__pycache__/
+
+# Ignore all temporary graph files
+**/graph
+**/graph.png
